@@ -9,5 +9,9 @@ https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjp
   Aula #01 - Tendo que baixar o VisuAlg3 para preparar o ambiente, algumas frases motivacionais como "Programar é muito mais do que escrever códigos" e também
   "Programar é a arte de pensar para escrever códigos",encontrando os materiais de apoio das aulas e das ferramentas que iremos utilizar.
   
- Aula #02 - Após baixar-mos o VisuAlg3 teremos que baixar o Portugol Studio(que será uma ferramenta para aprendermos programação) e após você baixar
- terá que executar o Portugol Studio e finalizar por ser uma ferramenta "mais atualizada".
+  Aula #02 - Após baixar-mos o VisuAlg3 teremos que baixar o Portugol Studio(que será uma ferramenta para aprendermos programação) e após você baixar
+  terá que executar o Portugol Studio e finalizar por ser uma ferramenta "mais atualizada".
+  
+  Aula #03 - Lógica de Programação significa contextualizar a lógica na programação de computadores,buscando a melhor sequência de ações para solucionar determinado problema
+  na programação de computadores,essa sequência de ações é chamada de "Algoritimo". Algoritimo é uma sequência de passos computacionais que transformam a entrada na saída
+  
