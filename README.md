@@ -20,3 +20,5 @@ https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjp
   Tipos de dados Númerico Real:podem ser positivos,negativos e nulos e possuem sempre casas decimais.
   Tipos de dados Texto:é uma sequência de alfanuméricos também chamados de "strings",literal ou texto.
   Tipos de dados Lógico:toda e qualquer informação que pode assumir uma entre duas possibilidades(verdadeiro ou falso).
+  
+  Aula #05 - 
