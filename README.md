@@ -21,4 +21,6 @@ https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjp
   Tipos de dados Texto:é uma sequência de alfanuméricos também chamados de "strings",literal ou texto.
   Tipos de dados Lógico:toda e qualquer informação que pode assumir uma entre duas possibilidades(verdadeiro ou falso).
   
-  Aula #05 - 
+  Aula #05 - Dados são armazenados na memória do computador,que são divididos em células e essas céculas são classificadas com os tipos de dados,
+  então essas células irão armazenar esses dados durante a execução do programa,todas essas informações nós escrevemos no nosso algoritimo para quando executar o programa,o nosso programa com o sistema operacional é quem gerenciam essa parte de memória.
+  Para cada célula de memória é atribuido um número sequencial que corresponde a sua posição conhecido como endereço da célula ou endereço da memória.
