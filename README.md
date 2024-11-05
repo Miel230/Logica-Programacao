@@ -24,3 +24,6 @@ https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjp
   Aula #05 - Dados são armazenados na memória do computador,que são divididos em células e essas céculas são classificadas com os tipos de dados,
   então essas células irão armazenar esses dados durante a execução do programa,todas essas informações nós escrevemos no nosso algoritimo para quando executar o programa,o nosso programa com o sistema operacional é quem gerenciam essa parte de memória.
   Para cada célula de memória é atribuido um número sequencial que corresponde a sua posição conhecido como endereço da célula ou endereço da memória.
+  
+  Aula #06 - Repassando uns conceitos,essa aula foi o começo da prática com ela ensinando o básico como comandos para pular linhas escrever algumas partes e etc,
+  criei um arquivo chamado "Aula6" para verem melhor.
