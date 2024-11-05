@@ -27,3 +27,11 @@ https://www.youtube.com/watch?v=gpt7Y3gZXGA&list=PLLaQioUGFzGMELNttW9gXP87WuoLjp
   
   Aula #06 - Repassando uns conceitos,essa aula foi o começo da prática com ela ensinando o básico como comandos para pular linhas escrever algumas partes e etc,
   criei um arquivo chamado "Aula6" para verem melhor.
+  
+  Aula #07 - Ver as variáveis,regras para declarar essas variáveis e resolver o segundo exercicio da nossa lista.
+  Regras:
+  O primeiro caractere deve ser alfabético(letras maiúsculas ou minúsculas).
+  Os demaispodem ser alfanuméricos(letras,números e _).
+  Nome composto de uma variável não podem existir espaços em branco entre os nomes.
+  Utilizar underscore "_".
+  Escolher sempre nomes significativos e intuitivos para as variáveis.
