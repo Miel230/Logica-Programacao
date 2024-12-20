@@ -1,4 +1,6 @@
 algoritmo "EX_11"
+//  
+//  
 var
       F, C : real
       //as variaveis F e C sao do tipo real
@@ -11,7 +13,7 @@ inicio
       leia(C)
 
       //processamento
-       //estou introduzindo na variavel volume o valor de (9*C+160)/5
+       //estou introduzindo na variavel F o valor de (9*C+160)/5
       F <- (9 * C + 160)/5
 
       //saída de dados
