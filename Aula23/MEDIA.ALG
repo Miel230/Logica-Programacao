@@ -1,31 +1,23 @@
-Algoritmo "Media"
+Algoritmo "Multiplo_10"
 
 Var
 
-   nota1, nota2, media : real
-   situacao : caractere
+   //resto da divisão
+   num, num2 : inteiro
 
 Inicio
 
-      //entrada
-      escreval("Nota 1: ")
-      leia(nota1)
+      escreval("Digite número: ")
+      leia(num)
 
-      escreval("Nota 2: ")
-      leia(nota2)
+      escreval("Digite o divisor: ")
+      leia(num2)
 
-      media <- (nota1 + nota2) / 2
-
-      se( media >= 7) então
-          situacao <- "Aprovado(a)"
-      senao
-           se( media >= 5 ) então
-             situacao <- "Recuperação"
-           senão
-             situacao <- "Reprovado(a)"
-         fimse
+      se num % num2 = 0 então
+         escreval(num, " é múltiplo de ", num2)
+      senão
+         escreval(num, " NÃO é múltiplo ", num2)
       fimse
 
-      escreval(situacao , " com media = " ,media)
 
 Fimalgoritmo
