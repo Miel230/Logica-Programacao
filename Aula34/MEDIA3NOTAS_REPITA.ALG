@@ -1,4 +1,4 @@
-Algoritmo "Media3Notas_Repita"
+algoritmo "Media3Notas_Repita"
 var
     n1, n2, n3, media : real
     op : caractere
