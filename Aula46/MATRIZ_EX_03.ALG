@@ -43,4 +43,4 @@ Inicio
       media_geral <- media_geral / 5
       escreval("Nédia Geral: ", media_geral)
 
-Fimalgoritmo
+Fimalgoritmo.
